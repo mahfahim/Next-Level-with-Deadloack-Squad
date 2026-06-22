@@ -5,9 +5,9 @@
 <img width="1065" height="600" alt="image" src="https://github.com/user-attachments/assets/54204133-65f7-48ba-b08c-9140faf5f886" />
 <img width="1076" height="626" alt="image" src="https://github.com/user-attachments/assets/33cd4729-2550-43ae-9f5b-6cb1aa8d0135" />
 
-আপনার শেয়ার করা স্লাইডগুলো প্রিজমা (Prisma) ইকোসিস্টেমের একটি চমৎকার এবং গোছানো গাইডলাইন। সংক্ষেপে বলতে গেলে, প্রিজমা হলো Node.js এবং TypeScript-এর জন্য একটি আধুনিক **ORM (Object-Relational Mapping)** টুল, যা ডেটাবেজ ম্যানেজমেন্টের কাজকে অনেক সহজ এবং আনন্দদায়ক করে তোলে।
+প্রিজমা হলো Node.js এবং TypeScript-এর জন্য একটি আধুনিক **ORM (Object-Relational Mapping)** টুল, যা ডেটাবেজ ম্যানেজমেন্টের কাজকে অনেক সহজ এবং আনন্দদায়ক করে তোলে।
 
-নিচে স্লাইডগুলোর ওপর ভিত্তি করে পুরো **Prisma Ecosystem** সহজ বাংলায় বিস্তারিত আলোচনা করা হলো:
+**Prisma Ecosystem** 
 
 ---
 
